@@ -96,5 +96,5 @@
 <div align="center">
   <i>"Art is not what you see, but what you make others see."</i>
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/yourpov/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+  <img src="./Assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
